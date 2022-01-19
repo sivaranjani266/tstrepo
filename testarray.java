@@ -1,5 +1,6 @@
 import java.util.Arrays;
 import printer;
+import input;
 
 public class Array {
 
